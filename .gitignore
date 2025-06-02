@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Editor/IDE configs
+.idea/
+
+# Lock files for specific editors
+.python-version
+
+
+adelShakal.py
